@@ -1,4 +1,4 @@
-package org.example.models;
+package org.game.models;
 
 public class Player extends Entity{
     private final double fullHP;

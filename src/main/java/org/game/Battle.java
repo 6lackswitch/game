@@ -1,7 +1,7 @@
-package org.example;
+package org.game;
 
-import org.example.models.Monster;
-import org.example.models.Player;
+import org.game.models.Monster;
+import org.game.models.Player;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;

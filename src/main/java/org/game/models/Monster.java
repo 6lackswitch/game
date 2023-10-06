@@ -1,4 +1,4 @@
-package org.example.models;
+package org.game.models;
 
 public class Monster extends Entity{
     public Monster(int health, int attack, int[] damage, int armor) {

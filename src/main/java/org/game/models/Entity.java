@@ -1,4 +1,4 @@
-package org.example.models;
+package org.game.models;
 
 import java.util.Arrays;
 import java.util.Random;
